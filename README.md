@@ -1,4 +1,4 @@
-By using the codes in this repository to compare real audio against synthetic speech with the same script, here are the examples of produced graphs used to conduct my exploratory research.
+By using the codes in this repository to compare real audio against synthetic speech with the same script, here are some examples of produced graphs used to conduct my exploratory research.
 
 Audio samples (focusing on American English) by TIMIT (collab effort by TI and MIT):
 https://www.kaggle.com/datasets/mfekadu/darpa-timit-acousticphonetic-continuous-speech
